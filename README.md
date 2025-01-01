@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a Freelance**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/gwc-sys/gwc-sys/issues)**
 
