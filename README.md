@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Mahesh Raskar!
+Hi...!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <img src="https://komarev.com/ghpvc/?username=gwc-sys&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="gwc-sys" />
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
@@ -12,7 +12,9 @@ Hi, I'm Mahesh Raskar!
 </p>
 <hr/>
 <samp>
-I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
+✨ I’m a Fullstack Developer & Data Engineer who loves turning ideas into impactful digital solutions. A creative mind 🎡, time-punctual professional 👩‍🎓, and dedicated problem-solver 🎯, I thrive on building, learning, and innovating.
+
+🚀 With strong organizational skills 👮‍♀️, sharp attention to detail 🕵️‍♀️, and honed communication skills 👐, I bring energy 🤹‍♀️, ethics 🙇‍♀️, and vision 👩‍💻 to every project I take on.
 </samp>
 
 ## 🔥 Streak Stats
