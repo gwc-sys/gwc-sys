@@ -30,6 +30,10 @@ alt="Mahesh Raskar profile header"
   <img src="https://img.shields.io/badge/Instagram-@_mahesh.raskar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
+<a href="https://www.gwc-sys.online/">
+  <img src="https://img.shields.io/badge/Portfolio-gwc--sys.online-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
+</a>
+
 <br/><br/>
 
 <img
@@ -443,163 +447,6 @@ Developing scalable applications using:
 
 <!-- ========================= -->
 
-<!--      FEATURED PROJECT     -->
-
-<!-- ========================= -->
-
-<div align="center">
-
-## 🌟 Flagship Project
-
-<a href="https://github.com/gwc-sys/gwcfit">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=gwc-sys&repo=gwcfit&theme=transparent&hide_border=true&title_color=22d3ee&icon_color=8b5cf6&text_color=cbd5e1&bg_color=0d1117"
-    alt="PulseFit repository card"
-  />
-</a>
-
-</div>
-
-# 🏋️ PulseFit Enterprise Gym SaaS
-
-> An intelligent, multi-tenant fitness management ecosystem designed for gym owners, administrators, trainers, receptionists, members and platform developers.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-f59e0b?style=for-the-badge" alt="Development status"/>
-<img src="https://img.shields.io/badge/ARCHITECTURE-MULTI_TENANT-7c3aed?style=for-the-badge" alt="Multi-tenant architecture"/>
-<img src="https://img.shields.io/badge/AI-POWERED-06b6d4?style=for-the-badge" alt="AI-powered"/>
-<img src="https://img.shields.io/badge/PLATFORM-MOBILE_AND_WEB-16a34a?style=for-the-badge" alt="Mobile and web platform"/>
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🏢 Business Platform
-
-* Multi-gym tenant management
-* Platform super administrator
-* Gym owner management
-* Sub-admin management
-* Trainer management
-* Reception management
-* Member management
-* Membership plans
-* Payments and receipts
-* QR attendance
-* Role-based dashboards
-* Tenant-isolated records
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 Intelligent Fitness
-
-* AI workout plan generation
-* Camera-based form analysis
-* Exercise pose detection
-* Automatic repetition counting
-* Workout quality feedback
-* Progressive overload suggestions
-* Recovery monitoring
-* Fatigue insights
-* AI fitness assistant
-* Personalized recommendations
-* Wearable integration architecture
-
-</td>
-</tr>
-</table>
-
-## 🧱 System Architecture
-
-```mermaid
-flowchart TB
-    User[Mobile and Web Users]
-
-    subgraph Frontend
-        RN[React Native]
-        Expo[Expo]
-        TS[TypeScript]
-    end
-
-    subgraph Gateway
-        NG[Nginx Reverse Proxy]
-    end
-
-    subgraph Backend
-        API[FastAPI REST API]
-        AUTH[JWT Authentication]
-        RBAC[Role-Based Access]
-        TENANT[Tenant Isolation]
-        AI[AI Services]
-    end
-
-    subgraph Data
-        PG[(PostgreSQL)]
-        REDIS[(Redis)]
-        FILES[(Object Storage)]
-    end
-
-    subgraph Infrastructure
-        DOCKER[Docker]
-        CICD[GitHub Actions]
-        CLOUD[Cloud Deployment]
-    end
-
-    User --> RN
-    RN --> Expo
-    Expo --> TS
-    TS --> NG
-    NG --> API
-
-    API --> AUTH
-    API --> RBAC
-    API --> TENANT
-    API --> AI
-
-    API --> PG
-    API --> REDIS
-    AI --> FILES
-
-    DOCKER --> API
-    DOCKER --> PG
-    DOCKER --> REDIS
-    CICD --> CLOUD
-```
-
-## 🔐 Role Architecture
-
-```mermaid
-flowchart LR
-    SA[Super Admin] --> GO[Gym Owner]
-    GO --> AD[Sub Admin]
-    GO --> TR[Trainer]
-    GO --> RC[Receptionist]
-    GO --> MB[Member]
-
-    TR --> AM[Assigned Members]
-    RC --> AT[Attendance]
-    MB --> WD[Workout and Diet]
-```
-
-## 🧰 PulseFit Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,typescript,python,fastapi,postgres,redis,docker,nginx,githubactions" alt="PulseFit stack"/>
-
-</div>
-
----
-
-<!-- ========================= -->
-
 <!--     DEVELOPMENT ROADMAP   -->
 
 <!-- ========================= -->
@@ -891,6 +738,10 @@ I am always open to learning, collaborating, discussing technology, and building
 
 <a href="mailto:mahesh-raskar@outlook.com">
   <img src="https://img.shields.io/badge/Send_an_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Send email"/>
+</a>
+
+<a href="https://www.gwc-sys.online/">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/>
 </a>
 
 <br/><br/>
